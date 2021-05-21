@@ -1,4 +1,4 @@
-package com.binder.hrapigatewayzuul.config;
+package com.binder.hrapigatewayzull.config;
 
 import java.util.Arrays;
 
